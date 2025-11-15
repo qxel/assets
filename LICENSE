@@ -1,0 +1,35 @@
+Qxel Assets License
+
+Copyright (c) 2024 QXEL INC. All rights reserved.
+
+The images, videos, and other files ("the Assets") contained in this repository are the exclusive and confidential property of QXEL INC.
+
+GRANT OF LICENSE
+
+Permission to access and use these Assets is granted on a strictly limited basis. The following are the ONLY permitted actions:
+
+1.  Authorized employees, contractors, or agents of QXEL INC ("Authorized Personnel") may use the Assets for official QXEL INC projects.
+2.  Authorized Personnel may generate and use URLs provided by the jsDelivr CDN (https://www.jsdelivr.com) for the sole purpose of serving these Assets in official QXEL INC projects.
+
+STRICT PROHIBITIONS
+
+All other uses are STRICTLY FORBIDDEN. You are specifically NOT permitted to:
+
+1.  Use, access, link to, or integrate these Assets via jsDelivr or any other method if you are not an Authorized Personnel of QXEL INC.
+2.  Copy, download, redistribute, or reproduce the Assets for any purpose.
+3.  Use the Assets in any commercial or non-commercial product, service, or website.
+4.  Claim ownership or authorship of the Assets.
+5.  Modify, alter, adapt, or create derivative works based on the Assets.
+6.  Sublicense, sell, rent, or lease the Assets to any third party.
+
+NO LICENSE FOR THIRD PARTIES
+
+This repository is public solely due to the technical requirements of the jsDelivr CDN service. The public availability of the Assets DOES NOT constitute a grant of any license or right to use them. Any use of these Assets by any party other than QXEL INC Authorized Personnel is an unauthorized infringement of our intellectual property rights.
+
+ENFORCEMENT
+
+QXEL INC will actively monitor for unauthorized use of these Assets and will pursue all available legal remedies, including injunctions and claims for damages, against any party that violates these terms.
+
+For inquiries regarding this policy, please contact QXEL INC directly.
+
+THIS SOFTWARE (JSDELIVR) IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
