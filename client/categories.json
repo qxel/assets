@@ -1,5 +1,4 @@
-{
-  "categories": [
+[
     "MBA",
     "MCOM", 
     "BCA",
@@ -130,5 +129,4 @@
     "NATURAL_LANGUAGE_PROCESSING",
     "DEEP_LEARNING",
     "NEURAL_NETWORKS"
-  ]
-}
+]
